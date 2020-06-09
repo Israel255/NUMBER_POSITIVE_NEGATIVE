@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\NUMBER_POSITIVE_NEGATIVE\bin\Debug\NUMBER_POSITIVE_NEGATIVE.exe.config
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\NUMBER_POSITIVE_NEGATIVE\bin\Debug\NUMBER_POSITIVE_NEGATIVE.exe
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\NUMBER_POSITIVE_NEGATIVE\bin\Debug\NUMBER_POSITIVE_NEGATIVE.pdb
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\NUMBER_POSITIVE_NEGATIVE\obj\Debug\NUMBER_POSITIVE_NEGATIVE.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\NUMBER_POSITIVE_NEGATIVE\obj\Debug\NUMBER_POSITIVE_NEGATIVE.MainForm.resources
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\NUMBER_POSITIVE_NEGATIVE\obj\Debug\NUMBER_POSITIVE_NEGATIVE.Properties.Resources.resources
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\NUMBER_POSITIVE_NEGATIVE\obj\Debug\NUMBER_POSITIVE_NEGATIVE.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\NUMBER_POSITIVE_NEGATIVE\obj\Debug\NUMBER_POSITIVE_NEGATIVE.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\NUMBER_POSITIVE_NEGATIVE\obj\Debug\NUMBER_POSITIVE_NEGATIVE.exe
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\NUMBER_POSITIVE_NEGATIVE\obj\Debug\NUMBER_POSITIVE_NEGATIVE.pdb
